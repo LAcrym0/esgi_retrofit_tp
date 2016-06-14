@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Retrofit</string>
+    <string name="input_username">Saisissez le pseudo GitHub</string>
+    <string name="valid">Valider</string>
+    <string name="username">USERNAME</string>
+    <string name="title_activity_navigation_drawer">NavigationDrawerActivity</string>
+    <string name="user">USER</string>
+    <string name="nav_user">Compte GitHub</string>
+    <string name="nav_repos">Repos GitHub</string>
+    <string name="nav_stats">Communauté</string>
+    <string name="nav_disconnect">Déconnexion</string>
+    <string name="user_space">Espace utilisateur</string>
+
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="nb_repos">Nombre de repos</string>
+    <string name="followers">Followers</string>
+    <string name="followed">Followed</string>
+
+    <string name="nb_repo">"Nombre de repos : "</string>
+    <string name="nb_followers">"Nombre de followers : "</string>
+    <string name="nb_follows">"Nombre de follows : "</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

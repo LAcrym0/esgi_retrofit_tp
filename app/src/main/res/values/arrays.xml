@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="association_tabs">
+        <item>@string/nb_repos</item>
+        <item>@string/followers</item>
+        <item>@string/followed</item>
+    </string-array>
+</resources>
